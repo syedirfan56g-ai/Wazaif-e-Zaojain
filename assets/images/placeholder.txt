@@ -1,0 +1,3 @@
+This is a placeholder for the hero background image.
+When you upload your image, replace it with the actual image file.
+Make sure to name it 'hero-bg.jpg' for it to work with the current CSS.
